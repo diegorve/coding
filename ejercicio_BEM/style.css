@@ -1,0 +1,12 @@
+.recuerda {
+    text-align: center;
+}
+
+.recuerda__profesores-online {
+    color: blue;
+}
+
+.barra-navegacion {
+    display: flex;
+    align-content: center;
+}

@@ -1,0 +1,9 @@
+$fondo_rojo: red;
+$fondo_blanco: white;
+$fondo_azul: blue;
+
+@mixin tamanio_display {
+    width: 90%;
+    height: 40%;
+    display: flex;
+}

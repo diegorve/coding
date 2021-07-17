@@ -1,0 +1,16 @@
+nav{
+    background: green;
+    color: red;
+}
+li{
+    background: #81c9d6;
+}
+a:hover{
+    color: yellow;
+}
+div{
+    background: blue;
+}
+section{
+    background: pink;
+}

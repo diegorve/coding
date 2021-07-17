@@ -1,0 +1,8 @@
+@import '../base.scss';
+
+.arriba_derecha {
+    // border: 2px solid white;
+    @include tamanio_display;
+    justify-content: flex-end;
+    background: $fondo_blanco;
+}

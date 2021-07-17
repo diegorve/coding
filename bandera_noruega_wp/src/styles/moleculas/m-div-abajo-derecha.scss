@@ -1,0 +1,9 @@
+@import '../base.scss';
+
+.abajo_derecha {
+    // border: 2px solid white;
+    @include tamanio_display;
+    align-items: flex-end;
+    justify-content: flex-end;
+    background: $fondo_blanco;
+}

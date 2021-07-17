@@ -1,0 +1,8 @@
+@import '../base.scss';
+
+.abajo_izquierda {
+    // border: 2px solid white;
+    @include tamanio_display;
+    align-items: flex-end;
+    background: $fondo_blanco;
+}
